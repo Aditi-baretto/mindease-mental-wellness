@@ -28,5 +28,6 @@ Then open http://localhost:8501 in your browser.
 
 ## 👩‍💻 Author
 **Adithi Steven Baretto**  
-📧 aditibaretto2003@gmail.com  
-💼 LinkedIn
+📧 [aditibaretto2003@gmail.com](mailto:aditibaretto2003@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/adithistevenbaretto)
+
